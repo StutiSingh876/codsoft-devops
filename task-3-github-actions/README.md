@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this task is to create an automated CI/CD pipeline using GitHub Actions, configure workflows to run on pushes and Pull Requests, validate the application, generate an artifact, monitor workflow execution, and troubleshoot pipeline failures.
+The objective of this task is to create an automated CI/CD pipeline using GitHub Actions and configure workflows to run on pushes and Pull Requests, validate the application, generate an artifact, monitor workflow execution, and troubleshoot pipeline failures.
 
 ---
 
